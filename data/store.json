@@ -1,0 +1,29 @@
+{
+    "products" : [
+        {
+            "name" : "Rice",
+            "quantity" : 12,
+            "unity" : "kg" 
+        },
+        {
+            "name" : "orange",
+            "quantity" : 8,
+            "unity" : "kg"
+        },
+        {
+            "name" : "chocolate",
+            "quantity" : 2,
+            "unity" : "bars"
+        },
+        {
+            "name" : "strawberry",
+            "quantity" : 0,
+            "unity" : "kg"
+        },
+        {
+            "name" : "egg",
+            "quantity" : 2,
+            "unity" : "dozen"
+        }
+    ]
+}
